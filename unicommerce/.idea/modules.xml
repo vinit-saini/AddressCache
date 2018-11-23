@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AddressCache.iml" filepath="$PROJECT_DIR$/.idea/modules/AddressCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AddressCache_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AddressCache_main.iml" group="AddressCache" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AddressCache_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AddressCache_test.iml" group="AddressCache" />
+    </modules>
+  </component>
+</project>
